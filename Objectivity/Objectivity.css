@@ -1,125 +1,125 @@
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Super.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Super.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-SuperSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-SuperSlanted.woff2') format('woff2');
     font-weight: 900;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Black.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Black.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-BlackSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-BlackSlanted.woff2') format('woff2');
     font-weight: 800;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-ExtraBold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-ExtraBoldSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-ExtraBoldSlanted.woff2') format('woff2');
     font-weight: 700;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Bold.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Bold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-BoldSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-BoldSlanted.woff2') format('woff2');
     font-weight: 600;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Medium.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-MediumSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-MediumSlanted.woff2') format('woff2');
     font-weight: 500;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Regular.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-RegularSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-RegularSlanted.woff2') format('woff2');
     font-weight: 400;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Light.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-LightSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-LightSlanted.woff2') format('woff2');
     font-weight: 300;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Thin.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Thin.woff2') format('woff2');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-ThinSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-ThinSlanted.woff2') format('woff2');
     font-weight: 200;
     font-style: oblique;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-Thin.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Objectivity';
-    src: url('https://raw.githubusercontent.com/enxinas/custom-fonts-css/blob/master/Objectivity/Objectivity-ThinSlanted.woff2') format('woff2');
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/e086dc80/Objectivity/Objectivity-ThinSlanted.woff2') format('woff2');
     font-weight: 100;
     font-style: oblique;
 }
