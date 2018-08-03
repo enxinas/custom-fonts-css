@@ -1,49 +1,13 @@
+/*------ Regular ------*/
+
+/* Light */
 @font-face {
     font-family: 'Univers';
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Light.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBold.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-UltraCondensed.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-UltraCondensed.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedOblique.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedOblique.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Oblique.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Oblique.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExt.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExt.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -51,151 +15,75 @@
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-LightOblique.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-LightOblique.woff') format('woff');
     font-weight: 300;
-    font-style: italic;
+    font-style: oblique;
+    font-stretch: normal;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
     font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExtObl.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExtObl.woff') format('woff');
-    font-weight: 900;
-    font-style: italic;
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Oblique.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Oblique.woff') format('woff');
+    font-weight: 400;
+    font-style: oblique;
+    font-stretch: normal;
 }
 
+/* Bold */
 @font-face {
     font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackOblique.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackOblique.woff') format('woff');
-    font-weight: 900;
-    font-style: italic;
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Bold.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
     font-family: 'Univers';
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldOblique.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldOblique.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: normal;
 }
 
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Bold.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExtObl.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExtObl.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-}
-
+/* Black */
 @font-face {
     font-family: 'Univers';
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Black.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Black.woff') format('woff');
-    font-weight: 900;
+    font-weight: 800;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
     font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Condensed.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Condensed.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackOblique.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackOblique.woff') format('woff');
+    font-weight: 800;
+    font-style: oblique;
+    font-stretch: normal;
 }
 
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExt.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExt.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-LightUltraCondensed.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-LightUltraCondensed.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExtObl.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExtObl.woff') format('woff');
-    font-weight: 900;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLightOblique.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLightOblique.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-}
-
+/* Extra Black */
 @font-face {
     font-family: 'Univers';
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlack.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlack.woff') format('woff');
     font-weight: 900;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLight.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLight.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ThinUltraCondensed.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ThinUltraCondensed.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBoldOblique.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBoldOblique.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExt.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExt.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Extended.woff2') format('woff2'),
-        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Extended.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -203,14 +91,177 @@
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackObl.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackObl.woff') format('woff');
     font-weight: 900;
-    font-style: italic;
+    font-style: oblique;
+    font-stretch: normal;
+}
+
+/*------ Condensed ------*/
+
+/* Light */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLight.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLightOblique.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedLightOblique.woff') format('woff');
+    font-weight: 300;
+    font-style: oblique;
+    font-stretch: condensed;
+}
+
+
+/* Regular */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Condensed.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Condensed.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedOblique.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedOblique.woff') format('woff');
+    font-weight: 400;
+    font-style: oblique;
+    font-stretch: condensed;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBold.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBoldOblique.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-CondensedBoldOblique.woff') format('woff');
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: condensed;
+}
+
+/*------ Ultra Condensed ------*/
+
+/* Thin */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ThinUltraCondensed.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ThinUltraCondensed.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: ultra-condensed;
+}
+
+/* Light */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-LightUltraCondensed.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-LightUltraCondensed.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: ultra-condensed;
+}
+
+/* Regular */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-UltraCondensed.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-UltraCondensed.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: ultra-condensed;
+}
+
+
+/* ------ Extended ------ */
+
+/* Regular */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Extended.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-Extended.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: expanded;
 }
 
 @font-face {
     font-family: 'Univers';
     src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtendedObl.woff2') format('woff2'),
         url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtendedObl.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
+    font-weight: 400;
+    font-style: oblique;
+    font-stretch: expanded;
 }
 
+/* Bold */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExt.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExt.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExtObl.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BoldExtObl.woff') format('woff');
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: expanded;
+}
+
+/* Black */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExt.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExt.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExtObl.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-BlackExtObl.woff') format('woff');
+    font-weight: 800;
+    font-style: oblique;
+    font-stretch: expanded;
+}
+
+/* Extra Black */
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExt.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExt.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExtObl.woff2') format('woff2'),
+        url('https://cdn.rawgit.com/enxinas/custom-fonts-css/304eae1e/Univers/Univers-ExtraBlackExtObl.woff') format('woff');
+    font-weight: 900;
+    font-style: oblique;
+    font-stretch: expanded;
+}
